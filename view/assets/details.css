@@ -1,0 +1,33 @@
+.product_details {
+    margin: 3rem 0;
+    padding: 1rem;
+    background: #F1F1F1;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.product_details .product_header {
+    border-bottom: rgba(128, 128, 128, 0.3) 1px solid;
+    padding: 0;
+}
+
+
+
+.pdpAddToCard a button {
+    background: #284B63;
+    color: white;
+    border: none;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+}
+.pdpAddToCard a button:hover {
+    background: rgba(40, 75, 99, 0.8);
+}
+
+.addToCardRow {
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+}
+.priceCard {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}

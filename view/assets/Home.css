@@ -1,0 +1,21 @@
+.login-user{
+    color:#353535;
+}
+
+.login-user:hover{
+    color: #284B63;
+}
+
+.fa-015{
+font-size: 1.5rem;
+}
+
+.cat_header h2 {
+    margin: 0;
+    font-size: 23px;
+}
+
+.cat_header {
+    margin-top: 8px;
+}
+
